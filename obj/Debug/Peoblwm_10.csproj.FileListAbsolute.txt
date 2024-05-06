@@ -1,0 +1,10 @@
+C:\Users\HP\OneDrive\Desktop\Peoblwm_10\bin\Debug\Peoblwm_10.exe.config
+C:\Users\HP\OneDrive\Desktop\Peoblwm_10\bin\Debug\Peoblwm_10.exe
+C:\Users\HP\OneDrive\Desktop\Peoblwm_10\bin\Debug\Peoblwm_10.pdb
+C:\Users\HP\OneDrive\Desktop\Peoblwm_10\obj\Debug\Peoblwm_10.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Peoblwm_10\obj\Debug\Peoblwm_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\OneDrive\Desktop\Peoblwm_10\obj\Debug\Peoblwm_10.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Peoblwm_10\obj\Debug\Peoblwm_10.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Peoblwm_10\obj\Debug\Peoblwm_10.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Peoblwm_10\obj\Debug\Peoblwm_10.exe
+C:\Users\HP\OneDrive\Desktop\Peoblwm_10\obj\Debug\Peoblwm_10.pdb
